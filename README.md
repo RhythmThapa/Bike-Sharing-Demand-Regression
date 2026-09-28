@@ -29,4 +29,4 @@ Random Forest was chosen: best MAE and RMSLE. `hour` was the most important feat
 - `results/` - plots
 - `models/` - saved model (link below if hosted externally)
 
-**Trained model:** [Download the .pkl] https://huggingface.co/RhythmThapa/bike-demand-random-forest/resolve/main/final_bike_demand_model_with_features.pkl?download=true
+**Trained model:** [Download the .pkl](https://huggingface.co/RhythmThapa/bike-demand-random-forest/resolve/main/final_bike_demand_model_with_features.pkl?download=true)
